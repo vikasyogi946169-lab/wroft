@@ -1,0 +1,6 @@
+{
+  "name": "WROFT - Modern Indian E-Commerce Marketplace",
+  "description": "Discover millions of products at amazing prices on WROFT. Shop smartphones, electronics, fashion, home essentials, and flash sale deals with fast delivery and seamless checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
